@@ -1,6 +1,7 @@
 # AntiPlague Coronavirus Game
 
-![Project Screenshot](src/image/image.png)
+![image](https://github.com/user-attachments/assets/679fdac2-f94c-4cfe-89d7-6132ecc306a3)
+
 
 ## Overview
 AntiPlague Coronavirus Game is a Java-based simulation game inspired by "Plague Inc." The game challenges players to prevent the infection of a virus spreading across a world map. With a graphical interface built using Java Swing, this project adheres to MVC design principles and avoids WYSIWYG tools for generating windows.
